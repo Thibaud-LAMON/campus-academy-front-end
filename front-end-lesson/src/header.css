@@ -1,0 +1,28 @@
+.Header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: line;
+
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+.logo{
+    margin-top: 0.5%;
+    align-items: left;
+    width: 7.135416666%;
+    height: 3.333333333%;
+}
+
+.navlinks{
+    display: flex;
+    flex-direction: line;
+    margin-top: 0.5%;
+    margin-left: 1%;
+}
+
+.navlinks-td{
+    padding-left: 5%;
+}
